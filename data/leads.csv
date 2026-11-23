@@ -1,0 +1,71 @@
+lead_id,customer_id,campaign_name,source,created_at,status
+L0001,C0001,Summer Sale,Meta,2026-02-02, NEW 
+L0002,C0002,Social Launch,Meta,2026-02-03, NEW 
+L0003,C0003,Summer Sale,Meta,2026-02-04,qualified
+L0004,C0004,Social Launch,Email,2026-02-05,qualified
+L0005,C0005,Summer Sale,Google,2026-02-06,converted
+L0006,C0006,Social Launch,Meta,2026-02-07,new
+L0007,C0007,Summer Sale,Google,2026-02-08,qualified
+L0008,C0008,Social Launch,Google,2026-02-09, NEW 
+L0009,C0009,Social Launch,Meta,2026-02-10, NEW 
+L0010,C0010,Summer Sale,Meta,2026-02-11, NEW 
+L0011,C0011,Social Launch,Google,2026-02-12,converted
+L0012,C0012,Summer Sale,Google,2026-02-13,new
+L0013,C0013,Summer Sale,Google,2026-02-14, NEW 
+L0014,C0014,Summer Sale,Email,2026-02-15,converted
+L0015,C0015,Brand Search,Meta,2026-02-16,qualified
+L0016,C0016,Summer Sale,Email,2026-02-17,new
+L0017,C0017,Brand Search,Google,2026-02-18,new
+L0018,C0018,Summer Sale,Google,2026-02-19,new
+L0019,C0019,Summer Sale,Email,2026-02-20, NEW 
+L0020,C0020,Social Launch,Meta,2026-02-21,qualified
+L0021,C0021,Brand Search,Google,2026-02-22, NEW 
+L0022,C0022,Brand Search,Meta,2026-02-23, NEW 
+L0023,C0023,Social Launch,Meta,2026-02-24,converted
+L0024,C0024,Brand Search,Meta,2026-02-25,converted
+L0025,C0025,Summer Sale,Google,2026-02-01,qualified
+L0026,C0026,Social Launch,Email,2026-02-02, NEW 
+L0027,C0027,Summer Sale,Meta,2026-02-03,new
+L0028,C0028,Social Launch,Email,2026-02-04,qualified
+L0029,C0029,Social Launch,Email,2026-02-05,converted
+L0030,C0030,Social Launch,Email,2026-02-06,new
+L0031,C0031,Summer Sale,Email,2026-02-07,qualified
+L0032,C0032,Social Launch,Meta,2026-02-08,converted
+L0033,C0033,Brand Search,Email,2026-02-09,converted
+L0034,C0034,Summer Sale,Google,2026-02-10,qualified
+L0035,C0035,Summer Sale,Google,2026-02-11, NEW 
+L0036,C0036,Brand Search,Google,2026-02-12,new
+L0037,C0037,Social Launch,Email,2026-02-13,qualified
+L0038,C0038,Brand Search,Google,2026-02-14,new
+L0039,C0039,Brand Search,Meta,2026-02-15, NEW 
+L0040,C0040,Social Launch,Google,2026-02-16,qualified
+L0041,C0001,Summer Sale,Email,2026-02-17,new
+L0042,C0002,Brand Search,Meta,2026-02-18, NEW 
+L0043,C0003,Summer Sale,Meta,2026-02-19,new
+L0044,C0004,Brand Search,Email,2026-02-20,converted
+L0045,C0005,Summer Sale,Meta,2026-02-21,qualified
+L0046,C0006,Summer Sale,Meta,2026-02-22,new
+L0047,C0007,Brand Search,Email,2026-02-23,qualified
+L0048,C0008,Summer Sale,Email,2026-02-24, NEW 
+L0049,C0009,Summer Sale,Meta,2026-02-25,qualified
+L0050,C0010,Social Launch,Email,2026-02-01, NEW 
+L0051,C0011,Summer Sale,Google,2026-02-02,converted
+L0052,C0012,Summer Sale,Meta,2026-02-03, NEW 
+L0053,C0013,Brand Search,Email,2026-02-04, NEW 
+L0054,C0014,Brand Search,Google,2026-02-05,converted
+L0055,C0015,Summer Sale,Email,2026-02-06,new
+L0056,C0016,Brand Search,Email,2026-02-07,qualified
+L0057,C0017,Social Launch,Google,2026-02-08,converted
+L0058,C0018,Social Launch,Meta,2026-02-09,qualified
+L0059,C0019,Social Launch,Meta,2026-02-10,converted
+L0060,C0020,Social Launch,Meta,2026-02-11,qualified
+L0061,C0021,Summer Sale,Google,2026-02-12,new
+L0062,C0022,Brand Search,Google,2026-02-13,qualified
+L0063,C0023,Summer Sale,Email,2026-02-14, NEW 
+L0064,C0024,Summer Sale,Google,2026-02-15,new
+L0065,C0025,Social Launch,Meta,2026-02-16,qualified
+L0066,C0026,Brand Search,Email,2026-02-17,converted
+L0067,C0027,Brand Search,Meta,2026-02-18,qualified
+L0068,C0028,Social Launch,Google,2026-02-19,qualified
+L0069,C0029,Summer Sale,Meta,2026-02-20,qualified
+L0070,C0030,Social Launch,Email,2026-02-21,new

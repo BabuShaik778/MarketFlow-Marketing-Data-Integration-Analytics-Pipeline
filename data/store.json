@@ -1,0 +1,14 @@
+{
+  "stores": [
+    {
+      "store_id": "S001",
+      "store_name": "Bengaluru Online",
+      "city": "Bengaluru"
+    },
+    {
+      "store_id": "S002",
+      "store_name": "Hyderabad Online",
+      "city": "Hyderabad"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+order_item_id,order_id,product_name,quantity,unit_price_inr,gst_rate
+OI0001,O0001,Running Shoes,2,1999,0.18
+OI0002,O0002,Sports T-shirt,3,799,0.18
+OI0003,O0003,Water Bottle,3,1299,0.18
+OI0004,O0004,Backpack,2,799,0.18
+OI0005,O0005,Water Bottle,3,1999,0.18
+OI0006,O0006,Running Shoes,3,1299,0.18
+OI0007,O0007,Water Bottle,3,799,0.18
+OI0008,O0008,Water Bottle,1,1299,0.18
+OI0009,O0009,Water Bottle,3,1999,0.18
+OI0010,O0010,Running Shoes,3,499,0.18
+OI0011,O0011,Running Shoes,3,1999,0.18
+OI0012,O0012,Sports T-shirt,2,499,0.18
+OI0013,O0013,Running Shoes,1,1999,0.18
+OI0014,O0014,Backpack,2,1999,0.18
+OI0015,O0015,Sports T-shirt,1,1999,0.18
+OI0016,O0016,Water Bottle,2,799,0.18
+OI0017,O0017,Running Shoes,2,799,0.18
+OI0018,O0018,Water Bottle,3,799,0.18
+OI0019,O0019,Water Bottle,1,1999,0.18
+OI0020,O0020,Sports T-shirt,2,1999,0.18
+OI0021,O0021,Backpack,2,799,0.18
+OI0022,O0022,Sports T-shirt,3,799,0.18
+OI0023,O0023,Backpack,1,1299,0.18
+OI0024,O0024,Sports T-shirt,1,799,0.18
+OI0025,O0025,Backpack,3,1299,0.18
+OI0026,O0026,Backpack,2,499,0.18
+OI0027,O0027,Water Bottle,3,1299,0.18
+OI0028,O0028,Backpack,1,1299,0.18
+OI0029,O0029,Backpack,2,1999,0.18
+OI0030,O0030,Sports T-shirt,2,1299,0.18
